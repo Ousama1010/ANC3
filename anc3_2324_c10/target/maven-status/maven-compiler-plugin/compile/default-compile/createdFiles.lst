@@ -1,0 +1,6 @@
+sokoban\model\Player.class
+sokoban\model\Target.class
+sokoban\model\Box.class
+sokoban\model\Wall.class
+sokoban\model\Game.class
+sokoban\model\Ground.class
